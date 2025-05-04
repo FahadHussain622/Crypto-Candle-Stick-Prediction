@@ -1,1 +1,2 @@
 # Crypto-Candle-Stick-Prediction
+Crypto-Candle-Stick-Prediction is a project focused on analyzing and forecasting cryptocurrency price movements using candlestick chart patterns. By leveraging machine learning and deep learning techniques, the project aims to identify trends and potential market shifts based on historical price data. It combines technical analysis with predictive modeling to assist in making informed trading decisions.
