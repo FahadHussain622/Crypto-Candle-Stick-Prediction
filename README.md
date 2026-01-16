@@ -1,14 +1,8 @@
 # Candlestick Prediction and Sentiment-Driven Crypto Analytics
 
 **Project:** Candlestick Prediction and Sentiment-Driven Crypto Analytics  
-**Course:** Semester 6 – Data Mining Project  
-**Date:** May 7, 2025  
+**Course:**  Data Mining   
 
-**Project Members:**  
-- Abdullah Maqsood  
-- Ameer Tufail  
-- Nouveen Leghari  
-- Fahad Hussain  
 
 ---
 
